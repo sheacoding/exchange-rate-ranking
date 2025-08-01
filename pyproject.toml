@@ -61,10 +61,10 @@ era-test = "test_api:main"
 era-benchmark = "benchmark:main"
 
 [project.urls]
-Homepage = "https://github.com/user/exchange-rate-ranking"
-Documentation = "https://github.com/user/exchange-rate-ranking#readme"
-Repository = "https://github.com/user/exchange-rate-ranking.git"
-Issues = "https://github.com/user/exchange-rate-ranking/issues"
+Homepage = "https://github.com/sheacoding/exchange-rate-ranking"
+Documentation = "https://github.com/sheacoding/exchange-rate-ranking#readme"
+Repository = "https://github.com/sheacoding/exchange-rate-ranking.git"
+Issues = "https://github.com/sheacoding/exchange-rate-ranking/issues"
 
 [tool.uv]
 dev-dependencies = [
